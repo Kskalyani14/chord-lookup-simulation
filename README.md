@@ -41,17 +41,6 @@ The system uses a 6-bit identifier space, resulting in 64 possible positions (0 
 * app.py: Provides a Streamlit-based interface for visualization and interaction
 
 ---
-
-## How to Run
-
-1. Install required libraries:
-   pip install streamlit simpy matplotlib pandas numpy
-
-2. Run the application:
-   streamlit run app.py
-
----
-
 ## Application Modules
 
 Ring and Lookup:
